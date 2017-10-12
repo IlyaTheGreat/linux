@@ -1,0 +1,8 @@
+#config file for linux_8.sh
+min=*
+hour=*
+day=*
+month=*
+dweek=*
+copyfile=/home/ilya/ilya
+folderto=/home/ilya/reserve
